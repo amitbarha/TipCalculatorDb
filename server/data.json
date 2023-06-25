@@ -1,0 +1,459 @@
+{
+    "countries": [
+      {
+        "country": "Australia",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.0,
+          "poor": 0.0
+        },
+        "flag": "https://cdn.britannica.com/78/6078-004-77AF7322/Flag-Australia.jpg",
+        "coin": "AU$"
+        
+        
+      },
+      {
+        "country": "Austria",
+        "tips": {
+          "good": 0.05,
+          "standard": 0.05,
+          "poor": 0.0
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/255px-Flag_of_Austria.svg.png",
+        "coin": "€"
+        
+      },
+      {
+        "country": "Belgium",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.1,
+          "poor": 0.0
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/692px-Flag_of_Belgium.svg.png",
+        "coin": "€"
+        
+      },
+      {
+        "country": "Canada",
+        "tips": {
+          "good": 0.15,
+          "standard": 0.15,
+          "poor": 0.1
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Canada_%281964%29.svg/2560px-Flag_of_Canada_%281964%29.svg.png",
+        "coin": "CA$"
+        
+      },
+      {
+        "country": "Chile",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.1,
+          "poor": 0.0
+        },
+        "flag": "https://cdn.britannica.com/85/7485-004-00B07230/Flag-Chile.jpg",
+        "coin": "CLP$"
+        
+        
+      },
+      {
+        "country": "China",
+        "tips": {
+          "good": 0.0,
+          "standard": 0.0,
+          "poor": 0.0
+        },
+        "flag": "https://cdn.britannica.com/90/7490-004-BAD4AA72/Flag-China.jpg",
+        "coin": "¥"
+        
+        
+      },
+      {
+        "country": "Czech Republic",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.00,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": "Kč"
+  
+        
+      },
+      {
+        "country": "Denmark",
+        "tips": {
+          "good": 0.0,
+          "standard": 0.0,
+          "poor": 0.0
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/2560px-Flag_of_Denmark.svg.png",
+        "coin": "kr"
+  
+        
+      },
+      {
+        "country": "Estonia",
+        "tips": {
+          "good": 0.05,
+          "standard": 0.05,
+          "poor": 0.0
+        },
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/255px-Flag_of_Estonia.svg.png",
+        "coin": "KR"
+  
+        
+      },
+      {
+        "country": "Finland",
+        "tips": {
+          "good": 0.0,
+          "standard": 0.0,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAR8AAACvCAMAAADzNCq+AAAAJ1BMVEX///8AL2wAGGLEyNQAE2EAIGXW2eGYoLUAJmjZ3OPHy9akq751gZ4Pt8buAAABlUlEQVR4nO3byQ3CQBBFQbOYxZB/vBBBSZb6gMyrBHrm3f+yzLpdT3us9+H7v64+Vh+rj9XH6mP1sfpYfaw+Vh+rj9XH6mP1sfpYfaw+Vh+rj9XH6mP1sfpYfaw+Vh+rj9XH6mP1sfpYfaw+Vh+rj9XH6mP1sfpYfaw+Vh+rj9XH6mP1sfpYfaw+Vh+rj9XH6mP1sfpYfaw+Vh+rj9XH6mPPo/W5jNpe664+j/c2+4Bpy3nWvjzfQMP3py07//Nv6mP1sfpYfaw+Vh+rj9XH6mP1sfpYfaw+Vh+rj9XH6mP1sfpYfaw+Vh+rj9XH6mP1sfpYfaw+Vh+rj9XH6mP1sfpYfaw+Vh+rj9XH6mP1sfpYfaz9jrX/sum53eH2g8Pan1p9rD5WH6uP1cfqY/Wx+lh9rD5WH6uP1cfqY/Wx+lh9rD5WH6uP1cfqY/Wx+lh9rD5WH6uP1cfqY/Wx+lh9rD5WH6uP1cfqY/Wx+lh9rD5WH6uP1cfqY/Wx+lh9rD5WH6uP1cfqY/Wx+lh9rD5WH6uPHa3PB7xsXfZoqEB4AAAAAElFTkSuQmCC",
+        "coin": "Mk"
+  
+        
+      },
+      {
+        "country": "France",
+        "tips": {
+          "good": 0,
+          "standard": 0,
+          "poor": 0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAFVBMVEX///8AJlTOESYAGU16gpXefILNABnwlnA6AAAA/klEQVR4nO3QSQ0AIAADsHH6l4yKPUhaCc2oWTs9586aOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHy4ckD5KrN4eD2boIAAAAASUVORK5CYII=",
+        "coin": "€"
+  
+        
+      },
+      {
+        "country": "Germany",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.05,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAAElBMVEUAAAD/zgDdAADnAADaAAD/2AAtsSEoAAAA+ElEQVR4nO3QMQGAMAAEsYeCf8tIuI0pkZANAAAAAAAAAAAAAAAAAAAAgB8dwm6CoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKewh7CbsIipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUqKkqKkKClKipKipCgpSoqSoqQoKUofMGTNC8HkSxoAAAAASUVORK5CYII=",
+        "coin": "€"
+  
+        
+      },
+      {
+        "country": "Greece",
+        "tips": {
+          "good": 0.05,
+          "standard": 0.05,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAw1BMVEUAM6D///////75//cEMqKnuNkAM54AEY8DMaQALJ5gdq0ENaIAIZmzw+X//vsAMKD6//wAPpuUpcYAJZoBNJwAHoz0/P/p6ek6UqBKYagAK5Hz/fwAKZPj7/v//P////moutrl6ubq5+fw8O1FXakANJiattuXrdEAL6cAKYQvTZZGV64AJKYAI4hecK5ddqpziKqBjrlfeqSQn8SXoczj9/8AG4b+//ARN40AP5wAKHoxVJ9GY505VJNNYJ4AJ7AAD4/2q5c4AAAET0lEQVR4nO3de1ebSBzG8QHHkTQsxILGGgLmwkpca3p3t91e3v+rKrGeusmD5bcn7YRpno//UI9Dz/lC4gkzoOqLGHU2m0yHG2bzINVatgeHqL4Sic883wPPenUT2Q7c8X+aDNhkHZsgNkFsgtgEsQliE8QmiE0QmyA2QWyC2ASxCdqqiVGBQ+WsNKl/QqcmjvX9V9zlzfofVs4TrU1qZP9PB1g5T8ogODkJEzeEYWKlSZX+eeiOSyuvnWoxKiJ/xfO/6+zmzEaTuMxGEQ7uqqGNJkHdpOGif1exCWITxCaITRCbIDZBbILYBLEJYhPEJohNEJsgaROz7bUCp5qYB+rxzdV5UsBof27SIG3bgwr0+ag4iAbdF0VR4U9U3BNJrrwCj/VfYXUtGf38NLdxhH+Oobp5IrJ84RXw4vFfLl8tXwkG37x+89QZr9VMms/HQ30rHfv2XW/X1+OlwiRRE9HrvCgKD5v4ee5FeesOvGKclasJpeDu6043N/UdNRUe6oHX8IvH96JC8E5RjBOjUmeoobDJNqJxJvqN3w19NgFsgtgEsQliE8QmiE0QmyA2QWyC2ASxCWITxCbIVpMkdoeWX3u8xaWLeCX/EW//Lo9d8c+xOj/PzgWOrrw8ggv388VJ1j48zN6PpPU6YKh0UGs/n6oPg4Ym/5ZBWgpOxoVbcxmyecA0++j5+FL5lFzHQevgoHo/OigiV0zvLx2bFsHnM69h0utTT5eqbWx6rBenkTsnyvDbkdRtUvOxYS7De1apMmgdbKrnbr2fWJhD/03XFXCtBZuwyTo2QWyC2ASxCWITxCbIShNlshF+pu4sK03KKht5/q4/7kr41pqoukk92O8+e+eJChYjv9h+Ra8lExtNTLpw6VqBlXvz659YPlnK1ibv3vLGzrODdCZbwd4NfJ4S4DOmEJsgNkFsgtgEsQliE8QmiE0QmyA2QWyC2ARJm2y11sIxfRWIPPI3ieaVrrRsDw4R3vZrrj80NPHnaRof/7obfXdE+AyHOLlqWg477/Uq4UMg3BELn+GwXL5oWh/78hdfG92JG/k66iIfbDa5FS+kdslstd5eMBkU5YMix7WgUR7dP0D4xzNJ289GWeN5U/E9CKunEzd+f6tj0kVDK/dluIVNEJsgNkFsgtgEsQliE8QmiE0QmyA2QWyC2ASxCWITNFTjU1o3VuERffeldhS234K+b2Ld+rSBPcTzZM23R5MI1xXsEfFaiz3CJohNEJsgNkFsgtgEsQliE8Qi6D/niVaamyt9fi7epIz67ZZB/wR8R9nUV9kJrcvU4R+07lC+ZnhvzDi/AzjnhdgEsQliE8QmiE0QmyA2QWyC2ASxCWITxCaITRCboKGaHNC6iZru+rB0zlRdXlwc0oOLi0uVhLQuUX3DqcANnPMCXGuB2ASxCWITxCaITRCbIDZBbILYBLEJYhPEJohNEJsgNgGmbsIoD/o10/8KR9MHcoVKD1IAAAAASUVORK5CYII=",
+        "coin": "€"
+  
+        
+      },
+      {
+        "country": "Hungary",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.1,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAP1BMVEXOICn///8Bh1L///vOHCbHMzr6//8AhE4EiVQAiVADhlMUjV/p6ekVjGD//v/RIyzJNTzk6ezp6OTp6Ons8fHWJWLxAAABp0lEQVR4nO3UO3IbQQxAQXhlmpT4k0jd/6xS2YG9+5yTQXc0IeoVBnMd1q6jyZYi/6PKlr9TmpQmpUlpUpqUJqVJaVKalCalSWlSmpQmpUlpUpqUJqVJaVKalCalSWlSmpQmpUlpUpqUJqVJaVKalCalSWlSmpQmpUlpUpqUJqVJaVKalCalSWlSmpQmpUlpUpqUJnWdn2zN7n3Hv953c/rB2kmTOM3thbXbfPxi7cOexM09CTe2NClNSpPSpDQpTUqT0qQ0KU1Kk9KkNClNSpPSpDQpTUqT0qQ0KU1Kk9KkNClNSpPSpDQpTUqT0qQ0KU1Kk9KkNClNSpPSpDQpTUqT0qQ0KU1Kk9KkNClNSpPSpE5zv1wePcRTuVzu8/noIZ7O55yP5+Nv56PnH7PsWVvmla15Y2sWtjQpTUqT0qQ0KU1Kk9KkNClNSpPSpDQpTUqT0qQ0KU1Kk9KkNClNSpPSpDQpTUqT0qQ0KU1Kk9KkNClNSpPSpDQpTUqT0qQ0KU1Kk9KkNClNSpPSpDQpTUqT0qQ0KU1qlv2jR3gy+2UOy3Lgr+8cXy5FCpK/kIHLAAAAAElFTkSuQmCC",
+        "coin": "Ft"
+  
+        
+      },
+      {
+        "country": "Iceland",
+        "tips": {
+          "good": 0.0,
+          "standard": 0.0,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQcAAADACAMAAAA+71YtAAAApVBMVEUjQJDWKij///8jQI4jP5L8///WKSrYHBrMWlomQ5H//v1peqz//vkVOokXOY1seK3ZhYTTKyvTb2zUb3IdPYckPpIVNY5HWJ2CkrDVKijVJBwpRpbULCfbKCMVO4ckPZYFLYlCVZOiq8Zpe6fIX1/QNjvVNjXfJCjPLSrOLyPeJC7VLCDgIiXdGw7eGRjSioTdQUrbb3DcanDNc2//+P+Di65FVYyORd5lAAADqklEQVR4nO3dbW/aZhhA4QcTm8ZQGA3NSLCbpUuXt75sa7f//9Nm5ywtGFUQ6XZLpHNF+QKSb3P0mETYyGl1HGS6zLJJhlf1/K4abKpPsvz/p7NfF0dRY2Os0nFqDAOcrncYzYtuh9Fmh4iRMdoAx3SIsKvD+UaH18OouSF+YIfRM+hwFOCpHSJmhljrEOHZroc2hB3aDsOhHezwyA6wA+wAO8AOsAPsADvADrAD7AA7wA6wA+wAO8AOsAPsADvADrAD7AA7wA6wA+wAO8AOsAPsADvADrAD7AA7wA6wA+wAO8AOsAPsADvADrAD7AA7wA6wA+wAO8AOsAPsADvADrAD7AA7wA6wA+yAn9rh6NA6HE2D/LbMyrLcp0OZXU5Po8aGeJnS+PfGOMDs7WTy+Ep3dMiXs1nIzBAPrz9lcSZfD4wdx8WXwKFBUtmahCj37ZA1A4NmBngoELcemveGx7eHXR3yPP/eVn4W1kPIpvJ8st/fi3LC74EIXg/rdh0Xh8cOsAPsADuglw7l51E9n3c61Cd9jIqSXvTg6t3g9mzQ7fDHi6urPqaFSOc9qK+Lm6rudLip+hgVpE5FD26r66Lqvj/cFdV9E+hApaLdx7NYxbxqNtk9MIr5vKqCJ0VoM8xTd28j3J1trYbBoKqK4mz74QPRS4dnyA6wA+wAO8AOsAPsADvADrAD7AA7wA6wA9KoB/X7m2LQ/ajh9vr8w8c+poVIv/Tg07vbYqt49Wcfo6L0c/7ir1E175YYHfbn9n1sNP/74/1Nt8OHV3mexZxZ70HKe5Cd3Ndbn0SOPpcPVz4cpp7O692fbb1PNsdFebhn9jy/CTvADrAD6FCG+LbVHdeJtRcqxowMsN4hxpcs3++64gP8LyLNZuNZiPHbbPK48HddX/3PeBw0NUSzL+lN62WA0+W+HSbZv6fTkJkh2gCLtOLa+807tX79ecLDbYdsr+Oi6XCRFumJ23/q/nSf+P5mmkdWNIi4/fN02Rz3e15fffl6uIiYGYIWfg/F7yXBDrAD7AA7wA6wA+wAO8AOsAPsADvADrAD7AA7wA6wA+wAO8AOsAPsADvADrAD7AA7wA6wA+wAO8AOsAPsADvADrAD7AA7wA6wA+wAO8AOsAPsADvADrAD7AA7wA6wA+wAO8AOsAPsADvADrAD7AA7wA7w/rygwypqc7s6nG90uDicDo0fuR7WO1y+uVhEzQ3RrIfjINP1DnXToXN7po0Oi4tF1NwQq/8AHrmtTfHgw9MAAAAASUVORK5CYII=",
+        "coin": "kr"
+  
+        
+      },
+      {
+        "country": "India",
+        "tips": {
+          "good": 0.05,
+          "standard": 0.0,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAmVBMVEX/mTMSiAf/////lycAgQAAAIgAAIUAAH4AAIIAAIMAAHwAAHPi4u+kpMvz8/kAAHjn5/Lt7fXd3ey5uddPT6GZmcWDg7n6+v7Ly+HIyOJERJxlZao+PponJ5L29vy0tNbW1uggIJCfn8iGhrsYGJBNTaB2drQQEIx+fripqc5ra62QkMBXV6QiIpFfX6i+vtwyMpw6Opg1NZe0gadDAAAEvUlEQVR4nO3ba3OiSBiG4UzvdDcip8YDiAdQZAIxExP//4/btzHjZH1Nze6HpVPlc1Ul0eiH9g7Q2JKHBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA/+gvuPYg4BqacGjCoQmHJhyacF+hSTI5LFd7uV8tD5PE9WDEF2gSHNbaGyklpVRq5Omfh8D1kBw3qaZ6pCiGVFrr/oYc6SZ3OyinTZIpdZCeevnhNyY1jf/jRXm0vejG6S7kssnObhmeNxMbcTSiEuZIt2aeZ7eancNxOWzy7NFrn3cnI/p9pbTfcmFO3ZxaeVN3A3PWJNrS5lAEmb3d5wgvt7KgoMe2kauhuWoSPdK2QHvIwt5ZpPTtQF/p+S7tVbQNPbqK4qhJRluJ17VGZB3di2yPF/o62AxdJkzbUZRt5mZwjpo0lOTY3wrtFGMPHq/vP5N+JxJHiuLomOKmycyTXinOUewLX1IYSTmW7/cpiSjpOTMno3PSJNA049TnQ4gIae8J6cVrSkWbSNdvJvRITbOPdnJO66RJo1QzM3RjaY8YMhLVVmR+JraViGhzEZn9vZnZp7kYnosmCy31+UR180oH1a4QWWyiODJxJhqajaPTpn80oee5OM130WSlVL3pZ11hJO0daiLWITUJ12KiaM+Spn9ssamVKhyMz0GTVNsDrOi6/o5fiVKLdmVis2qFLkXl27OV/rhCh1mdDj9AB01qmoftnz+Z2ir5+Cjk08JP49RfPElxHNvdpZvao2vhyVE9/AAdNHmkOfZ8ihpK2l4m4y4fJ7ryKp2M8248oe1D7vrHDc3Z++EHOHwTmojlr9tRISciHB/beZ3v87puj+OdmMiV+fUE6WI6Hr5J6amnaFEuzptK6av8GAfrKmzDah3Ex/zR798Iik1e5tGT8srBRzh8k7lSLf1ID9NlWNF5yHLcBuugLd6KNl0H87E9N0m7p+Zgj66tUvPBRzh8k2cl/fNZRzLbxut2kczXaWFXIEdFsG6TfH6KH2fnPSb3pXoefITDN3lVanpZBTDhytd12o6kNWrTg/ZPu8vKYzRV6nXwEQ7fRErvkiSLIpNWeViovokqdnmVmii6LBJE3u8D8mCcNEmqYzhbnqT2/TiOvX37Js/e6q1Hv4l9LX8+H8IyT++mCbaTK1fHkzccTz7OO8Hveafp550mWM/vct6Zn085cH7ywe3z2JTOY9O7PY/F+50b9vS++PyiP3tfPLm398WiHv15/aTs109Wd7N+gnW2G4p/uR6b3c96rMiv1u2bT9btgztat+8/3zmY989xbn6+I+7t8x18DngLPi++YYrrChhcf3IDrlO6IdqOpCpSXM/2D/11j234yXWPwy+bXOD6WO5rXkc9vdvrqAWut78N/5dx08f/3zF/fvr/7is0+WrQhEMTDk04NOHQhHv4DtcevsE1NOHQhEMTDk04NOHQhEMTDk04NOHQhEMTDk04NOHQhEMTDk04NOHQhEMTDk04NOHQhEMTDk04NOHQhEMTDk04NOHQhEMTDk04NOHQhEMTDk04NOHQhEMTDk04NOHQhEMTDk04NOHQhEMTDk04NOHQhEMTDk04NOHQhEMTDk04NOHQhEMT7m/cNifkUwM0UQAAAABJRU5ErkJggg==",
+        "coin": "₹"
+  
+        
+      },
+      {
+        "country": "Ireland",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.1,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAAOVBMVEX///8Bmkr/eQD/eAD/dQMAmUn///3v/fMAnkgmnF3/9+/7eQDzhy3k5OT5egAEnU3V59nl5uPr3NTr7FI6AAABKklEQVR4nO3QiRGCMBAAwBxvImKA/ou1Cm4G3S1hS4+eoUY79hzn9d6mIUeJOTLUua0lxbK89D2lr+vTp0/fP/WNoz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTp06dPnz59+vTpu7fvM223/w369Ol7dF/K3u/25ajRjj3HeeX1fQEzaBKVOmQhkwAAAABJRU5ErkJggg==",
+        "coin": "€"
+  
+        
+      },
+      {
+        "country": "Israel",
+        "tips": {
+          "good": 0.15,
+          "standard": 0.12,
+          "poor": 0.10
+        },
+        "flag": "https://cdn.britannica.com/53/1753-004-03582EDA/Flag-Israel.jpg",
+        "coin": "₪"
+        
+        
+      },
+      {
+        "country": "Italy",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.1,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAclBMVEX///8AkkbOKzcAAAAAfTwAjz56uI/ehIjNHy3VLTlHDxPr6+u8vLwAlUcAhkC+KDMAazSYICkAFAkSBAUAczcAgzpxqYTx7/Ht8fHMen68HSrEKTRCDhLZLToAXCwAaS5ah2mjYWWXFyI0Cw4AHA0fBgiMYknvAAABM0lEQVR4nO3QRxYBURAAwE/LmZEZ2f2v6FmOtd5VHaHKKmiqSqxnSTbb3TjL/nCc5zido0Rn2srR7ZU8/UE7Rz1y8mvoxIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ06cOHHixIkTJ/89SZJ8MsxRf08uiyTX2yTP/bFM8ozyChqq9wfUJxKbx90lAgAAAABJRU5ErkJggg==",
+        "coin": "€"
+  
+        
+        
+      },
+      {
+        "country": "Japan",
+        "tips": {
+          "good": 0,
+          "standard": 0,
+          "poor": 0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAkFBMVEX///+8AC27ACe5ABi7ACq4ABO5ABq6ACO6AB+4ABS6ACK6ACX//P313eL78vTosby3AAf46uzw0Nbio67kqLP34ue3AAnsv8jqt8HuzdLhnqvISl7flqPHQVm/ADH78PPBGz7PYnTYh5TTc4LWeorEOE/NVmvAEDjCIkLDLknGOVTMW23QZ3nUdIPtxc3ITF9WNYkkAAAD2UlEQVR4nO3diXbqIBAG4BJDVpfEuqS1sbYudat9/7e75liPVuhtjMAc4v89AcyZAJkQeHgAAAAAAAAAAAAAAAAAAAAAAAAAgL12O+0Os06vkw27abtN3Rxq6dPzdDTxEh42CiFPvMlo+vLUp24Yld1szrgXOS475zqRF7rz2bBJ3T7T2tki4ZfhOA9MwJNF556eo+6nw+NfwnESh+60S91UQ7I8DH5LkIt0iRp5Rt1cA7Ixd0oF5MDhboe6yZoNV7xcipwlC1/VOVf6i6ty5JQri9pOzi8Dv0JECv7ghbrxWrTysGJECmHeou6Aej2/apJ8p4rfo+6CYs1tcu3YeslNprVa2r6OvBsjUvDyV+qOqJNOIgUhYSz6SKm7okorqjIDyzhBTRb7XVdVSPZBcWsRlFbJl5ty3KAGc7LakNQiKOlE3YNz4ExsH2jXt63UZPw5dadus1WxLrnkbam7dYvHW15xfhc+UnesOtXj65HN4+xS9fh65Cypu1bVe0NTSBhrvFN3rpqWjvH1yLPz6cn//lxRXZxTd6+KjGsMCWPcxsL1WM+cc+R+UHfwes/6BtiDxjN1F6/V1JwmRaLYVors6U6TfaJYVrRurnQt106clV2JMtQ76RzwHXU3r/KmvkQg8t+ou3mNNDEQEsYSm75tPOpc1p94NtUM1vpH2IKzpu5oef3ASEgYC+zZg9HRvzg5aNizh2lrYtYp+NZUZttL3ev6I3dly3bRvqlHZ//w2DKgGBtOLBpQ3k1NO/uJx5a67EZn0fGneEPd2ZI+TA2x+0F2Qt3ZkgbGQrJ/N6bubDl9kzEZ2DHx7EzUTo74E3V3S8nMTcWMhXZ80jC4PLFmgdIzUzz5jokdhWqjMfEQE8QEManEkvEE844I6xMR1rEivO9I4L1YhPqJCHU2EeqxItTtRfi+I8J3QAl8LxZhX4EI+08ksE9JhP1sIux7lMD+WBH2UYuw314C/2WImtqLKPb9v4P/vGQ0J4qN/wPiv1EZ/F8swn/oEjivQGKp6+mx91wLnH8ig3NyJHCeksRazUmP5yKbqmsyqfLzg+w/nw3n+Mm0ApWZUouQ4FxQKZXnx9YiSwo4Z1jidaTi1ccbWfXt4k+fOLdc1ItvPN8+tq0kXUI/v6XwVst7EB5wX4ZUughxr4qg0v078yF1szXLWImrvM5zZGxlgf5KuM9LpjtzSySLH7qfNXm7KaWdbRIe/P9+wM1d3Q94sJvNx9yL4ot7JOPI43d5j+S34r7Rrx/3jQaTr3u+b/So+eNe2ntNDwAAAAAAAAAAAAAAAAAAAAAAAIAL/wAcn01T58xpcQAAAABJRU5ErkJggg==",
+        "coin": "¥"
+  
+        
+      },
+      {
+        "country": "South Korea",
+        "tips": {
+          "good": 0.0,
+          "standard": 0.0,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,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",
+        "coin": "₩"
+  
+        
+      },
+      {
+        "country": "Latvia",
+        "tips": {
+          "good": 0.05,
+          "standard": 0.05,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAT4AAACfCAMAAABX0UX9AAAADFBMVEWeMDn///+bIy7Hlpl6vCkHAAAAkUlEQVR4nO3awQkAIRDAwNXrv+drQchDhJkS8s4MAAAAAAAAAAAAAAAAAAAAAAAAwDM2wXwEswjkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5EvkS+RL5Ev8fYm7NLn9BgMAAAAAAAAAAAAAAAAAAAAAAACc+wFAMTLvWw7cDAAAAABJRU5ErkJggg==",
+        "coin": "Ls"
+  
+        
+      },
+      {
+        "country": "Lithuania",
+        "tips": {
+          "good": 0.05,
+          "standard": 0.05,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAAFVBMVEX9uRPBJy0AakT/vgwAY0cAbkbKHysqUHmaAAAA+klEQVR4nO3QNwGAAAAEsaf6l4yEWxgTCdkAAAAAAAAAAAAAAAAAAAAA/nMRdhN2EhQlRUlRUpQUJUVJUVKUFCVFSVFSlBQlRUlRUpQUJUVJUVKUFCVFSVFSlBQlRUlRUpQUJUVJUVKUFCVFSVFSlBQlRUlRUpQUJUVJUVKUFCVFSVFSlBQlRUlRUpQUJUVJUdpD2EvYQVCUFCVFSVFSlBQlRUlRUpQUJUVJUVKUFCVFSVFSlBQlRUlRUpQUJUVJUVKUFCVFSVFSlBQlRUlRUpQUJUVJUVKUFCVFSVFSlBQlRUlRUpQUJUVJUVKUFCVFSVFSlBQlRUlR+gCB9tPXlKkzPwAAAABJRU5ErkJggg==",
+        "coin": "Lt"
+  
+        
+      },
+      {
+        "country": "Luxembourg",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.1,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAAD1BMVEX////tKTkAod7sABgAmds2hHHaAAABCUlEQVR4nO3QSRGAAADEsOXwrxkJ/QGPREGnOwj7OuD/LEoWJYuSRcmiZFGyKFmULEoWJYuSRcmiZFGyKFmULEoWJYuSRcmiZFGyKFmULEoWJYuSRcmiZFGyKFmULEoWJYuSRcmiZFGyKFmULEoWJYuSRcmiZFGyKFmULEoWJYuSRcmiZFGyKO0iDAAAAAAAAAAAAAAAAAAAAIA33YSdBIuSRcmiZFGyKFmULEoWJYuSRcmiZFGyKFmULEoWJYuSRcmiZFGyKFmULEoWJYuSRcmiZFGyKFmULEoWJYuSRcmiZFGyKFmULEoWJYuSRcmiZFGyKFmULEoWJYuSRcmiZFGyKFmULEoWpQe2+cml34wonAAAAABJRU5ErkJggg==",
+        "coin": "€"
+  
+        
+      },
+      {
+        "country": "Mexico",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.1,
+          "poor": 0.0
+        },
+        "flag": "data:image/png;base64,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",
+        "coin": "$"
+  
+        
+      },
+      {
+        "country": "Netherlands",
+        "tips": {
+          "good": 0.05,
+          "standard": 0.05,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      },
+      {
+        "country": "New Zealand",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.1,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      },
+      {
+        "country": "Norway",
+        "tips": {
+          "good": 0.0,
+          "standard": 0.0,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      },
+      {
+        "country": "Poland",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.1,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      },
+      {
+        "country": "Portugal",
+        "tips": {
+          "good": 0.05,
+          "standard": 0.05,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      },
+      {
+        "country": "Slovak Republic",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.1,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      },
+      {
+        "country": "Slovenia",
+        "tips": {
+          "good": 0.05,
+          "standard": 0.05,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      },
+      {
+        "country": "Spain",
+        "tips": {
+          "good": 0.05,
+          "standard": 0.05,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      },
+      {
+        "country": "Sweden",
+        "tips": {
+          "good": 0.0,
+          "standard": 0.0,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      },
+      {
+        "country": "Switzerland",
+        "tips": {
+          "good": 0.0,
+          "standard": 0.0,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      },
+      {
+        "country": "Turkey",
+        "tips": {
+          "good": 0.1,
+          "standard": 0.1,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      },
+      {
+        "country": "United Kingdom",
+        "tips": {
+          "good": 0.15,
+          "standard": 0.1,
+          "poor": 0.0
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      },
+      {
+        "country": "United States",
+        "tips": {
+          "good": 0.15,
+          "standard": 0.15,
+          "poor": 0.1
+        },
+        "flag": "",
+        "coin": ""
+  
+        
+      }
+    ]
+  }
+  
